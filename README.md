@@ -44,6 +44,7 @@ To run the scraper, you can use the `despar_scraper.py` script, which acts as th
 This script will launch both spiders to extract data from the stores and the products of two default stores (this can be configured): 
 
 https://shop.despar.com/spesa-consegna-domicilio/65128
+
 https://shop.despar.com/spesa-ritiro-negozio/rende-interspar-via-silvio-pellico-18
 
 Note that the following instructions are for running the scraper directly from the terminal, without the need to deploy it in Airflow.
